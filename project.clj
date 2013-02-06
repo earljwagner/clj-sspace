@@ -5,7 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.4.0"]
 
-                 [edu.ucla.sspace "2.0.3-1"]
+                 [org.clojars.earljwagner/sspace "2.0.3-1"]
                  [gov.nist.math/jama "1.0.2"]
 
                  [stout "0.1.0"]
